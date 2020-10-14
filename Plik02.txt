@@ -1,2 +1,7 @@
 Zmiana07a
+<<<<<<< HEAD
 naprawa błędów
+=======
+Dodano asystenta pomocy
+Uproszczenie interfejsu graficznego
+>>>>>>> easierApp

@@ -5,4 +5,9 @@ Zmiana03
 Zmiana04
 Zmiana05
 Zmiana08
+<<<<<<< HEAD
 naprawa błędów
+=======
+Dodano asystenta pomocy
+Uproszczenie interfejsu graficznego
+>>>>>>> easierApp
