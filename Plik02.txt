@@ -1,4 +1,5 @@
 Zmiana07a
+Zmiana08
 <<<<<<< HEAD
 naprawa błędów
 =======
