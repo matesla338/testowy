@@ -5,6 +5,7 @@ Zmiana03
 Zmiana04
 Zmiana05
 Zmiana08
+Zmiana12
 <<<<<<< HEAD
 naprawa błędów
 =======
